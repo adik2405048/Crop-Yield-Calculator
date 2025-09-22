@@ -10,10 +10,10 @@ Key Features:
 • Visual Layout: It generates a simple text-based visualizer in the console, showing a grid-like plan of where to place each plant for optimal spacing.
 
 The goal of HortiPlanner is to take the guesswork out of gardening. It empowers users to:
-Maximize their available space for better yields.
-Prevent plant overcrowding, leading to healthier crops.
-Make gardening more accessible and systematic for beginners.
-Promote sustainable and efficient urban farming practices.
+• Maximize their available space for better yields.
+• Prevent plant overcrowding, leading to healthier crops.
+• Make gardening more accessible and systematic for beginners.
+• Promote sustainable and efficient urban farming practices.
 
 This project was a fantastic challenge and a great way to strengthen my C programming skills. I'm always open to feedback and suggestions!
 #CProgramming #SoftwareDevelopment #AgriTech #UrbanFarming #Gardening #TechForGood #StudentProject #Programming #Bangladesh
